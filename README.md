@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nelsonpgm
-- 👀 I’m interested in data science and data analysis
-- 🌱 I’m currently learning machine learning and deep learning(yolov5)
-- 💞️ I’m looking to collaborate on SBF Group
+- 👀 I’m interested in data science and data analysis.
+- 🌱 I’m currently learning machine learning and deep learning(yolov5).
+- 💞️ I’m looking to collaborate on new projects.
 - 📫 How to reach me : :iphone: +55(21)983547770 :e-mail: nelsonmelo@live.com 
 
 <!---
