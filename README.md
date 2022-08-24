@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nelsonpgm&label=Profile%20views&color=0e75b6&style=flat" alt="nelsonpgm" /> </p>
 
-- 🔭 Atualmente eu trabalho com análise de dados e visualização de dados.No [PicPay](https://www.picpay.com/site)
+- 🔭 Atualmente eu trabalho com análise de dados e visualização de dados no [PicPay](https://www.picpay.com/site)
 
 - 💬 Me pergunte sobre **Python, SQL, Data Viz, Web Scraping, Excel**
 
