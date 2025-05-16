@@ -5,7 +5,7 @@
 
 Eu sou um profissional apaixonado por extrair insights valiosos de conjuntos de dados complexos e transformar esses insights em histórias de dados impactantes. Com experiência em análise e visualização de dados, estou sempre buscando maneiras de empregar tecnologias de dados para solucionar problemas reais.
 
-- 🔭 **Atualmente, atuo na [NOS](https://www.nos.pt/) onde me especializo em análise de dados e visualização de dados.**
+- 🔭 **Atualmente, atuo no [Nubank] onde me especializo em análise de dados e visualização de dados.**
 
 - 💬 **Pergunte-me sobre** técnicas avançadas em Python, SQL, visualização de dados, web scraping e automação em Excel.
 
